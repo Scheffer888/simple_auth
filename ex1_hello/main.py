@@ -1,3 +1,6 @@
+# FastAPI implement a simple web server that serves static files from the "main" directory
+# and uses the "index.html" file as the default page.
+
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 

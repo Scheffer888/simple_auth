@@ -3,6 +3,6 @@ uvicorn
 jinja2
 aiofiles
 python-decouple
-clerk-backend-api==1.8.0
+clerk-backend-api==1.8.0 # This is used for authentication
 httpx==0.28.1
 starlette==0.45.3
